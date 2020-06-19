@@ -9,7 +9,7 @@ nenhum
 ##### ok ! 200
 caso essa resposta ocorra você receberá a listagem de todos os games
 exemplo
-'''
+´´´
  {
         "id": 25,
         "title": " a volta dos que nao foram",
@@ -22,7 +22,7 @@ exemplo
         "year": 2020,
         "price": 50
     }
-    '''
+    ´´´
 ##### falha na autencicacao ! 401
 caso essa resposta ocorra ,  significa que ocorreu uma falha no processo de autenticação requisicao , motivo  token 
 invalido ou expirado 
